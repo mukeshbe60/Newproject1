@@ -1,0 +1,5 @@
+print("hello")
+
+c = a+b;
+
+print("hari")
